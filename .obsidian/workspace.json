@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Frontend/Javascript/Working of Javascript.md",
+                "file": "Learning Java/Collections Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working of Javascript"
+              "title": "Collections Framework"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "71318c66895cddaa",
   "lastOpenFiles": [
-    "Learning Frontend/Resources.md",
     "Learning Frontend/Javascript/Working of Javascript.md",
+    "Learning Frontend/Resources.md",
     "Learning Java/Collections Framework.md",
     "Learning Spring/testing/Testing in Java.md",
     "LLD Practice/Concurrency/ThreadPool.md",

@@ -1,5 +1,7 @@
 {
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
