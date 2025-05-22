@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "textFontFamily": "Input Sans",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "monospaceFontFamily": "Input Mono",
+  "accentColor": "#2f334b"
+}

@@ -1,0 +1,3 @@
+- ThreadPool refers to the set of threads created to perform a certain tasks. After the current task is completed, they go back to pool.
+- These threads are known as <mark style="background: #FFB8EBA6;">worker threads</mark>
+- 
