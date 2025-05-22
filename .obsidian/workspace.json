@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Frontend/Javascript/Working of Javascript.md",
+                "file": "Learning Java/Collections Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working of Javascript"
+              "title": "Collections Framework"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Java/Collections Framework.md",
+                "file": "consistency-report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collections Framework"
+              "title": "consistency-report"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71318c66895cddaa",
+  "active": "f8177501e0eb998b",
   "lastOpenFiles": [
+    "consistency-report.md",
+    "Learning Java/Collections Framework.md",
     "Learning Frontend/Javascript/Working of Javascript.md",
     "Learning Frontend/Resources.md",
-    "Learning Java/Collections Framework.md",
     "Learning Spring/testing/Testing in Java.md",
     "LLD Practice/Concurrency/ThreadPool.md",
     "LLD Practice/Concurrency/Explicit Locks.md",

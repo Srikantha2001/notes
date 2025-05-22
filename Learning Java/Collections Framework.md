@@ -4,7 +4,7 @@
 - need => to provide common interfaces for performing operations on group of objects
 
 
-![[CollectionHierarchy.png]]
+![CollectionHierarchy.png](../Resources/CollectionHierarchy.png)
 
 
 ## Iterable interface
@@ -21,7 +21,7 @@
 ## Collection interface 
 
 - contains generic methods which have to be implemented by subclass (ArrayList, LinkedList, HashSet etc)
-![[Pasted image 20250514223428.png]]
+![Pasted image 20250514223428.png](../Resources/Pasted%20image%2020250514223428.png)
 
 ### Collection vs Collections
 
@@ -49,12 +49,12 @@
 
 - Mostly follow properties of FIFO (first in first out)
 - Methods in queue interface
-![[Pasted image 20250515074730.png]]
+![Pasted image 20250515074730.png](../Resources/Pasted%20image%2020250515074730.png)
 
 
 ### Priority Queue
 
-![[Pasted image 20250515074812.png]]
+![Pasted image 20250515074812.png](../Resources/Pasted%20image%2020250515074812.png)
 
 - its a queue where polling happens on priority basis
 - there are 2 types of priority queue -> max and min which are based on max and min priority heap
@@ -70,8 +70,8 @@
 ### Deque
 
 - Deque stands for *DOUBLE ENDED QUEUE* . This special queue allows to perform operations at both ends of the queue.
-- ![[Pasted image 20250515084206.png]]
-- ![[Pasted image 20250515084803.png]]
+- ![Pasted image 20250515084206.png](../Resources/Pasted%20image%2020250515084206.png)
+- ![Pasted image 20250515084803.png](../Resources/Pasted%20image%2020250515084803.png)
 
 - queue methods of deque will make it behave like a normal FIFO queue
 	- add -> addLast()

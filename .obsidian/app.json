@@ -2,6 +2,6 @@
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "spellcheck": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "relative"
 }

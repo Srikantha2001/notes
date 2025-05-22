@@ -24,7 +24,7 @@ try {
 }
 ```
 
-![[Lock Interface.png]]
+![Lock Interface.png](../../Resources/Lock%20Interface.png)
 
 - There are mainly 4 types of explicit locks
 	- ReentrantLock
