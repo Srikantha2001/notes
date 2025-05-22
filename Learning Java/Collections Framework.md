@@ -1,7 +1,7 @@
 
 - collections => group of object
 - framework => an architecture to manage these group of objects
-- need => to provide common interfaces for performing operations on group of objects
+	- need => to provide common interfaces for performing operations on group of objects
 
 
 ![CollectionHierarchy.png](../Resources/CollectionHierarchy.png)
